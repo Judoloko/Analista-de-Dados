@@ -100,4 +100,4 @@ analista-de-dados/
 
 ## 👤 Autor
 
-Feito por **[Judoloko](https://github.com/Judoloko)**, estudando um commit de cada vez. 🚀
+Feito por **[Daniel Junior](https://github.com/Judoloko)**, estudando um commit de cada vez. 🚀
